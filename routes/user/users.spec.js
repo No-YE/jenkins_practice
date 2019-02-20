@@ -13,7 +13,7 @@ describe('hi', () => {
     done();
   });
 
-  it('should response 404', () => {
+  it('should response 404', (done) => {
     done();
   });
 });
