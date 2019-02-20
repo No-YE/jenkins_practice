@@ -12,4 +12,8 @@ describe('hi', () => {
   it('should response 500', (done) => {
     done();
   });
+
+  it('should response 404', () => {
+
+  });
 });
