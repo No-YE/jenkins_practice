@@ -9,7 +9,7 @@ describe('hi', () => {
     done();
   });
 
-  it('should response 500', () => {
+  it('should response 500', (done) => {
 
   });
 });
