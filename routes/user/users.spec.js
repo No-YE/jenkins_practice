@@ -14,6 +14,6 @@ describe('hi', () => {
   });
 
   it('should response 404', () => {
-
+    done();
   });
 });
