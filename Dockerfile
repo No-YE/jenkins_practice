@@ -2,5 +2,5 @@ FROM node
 
 COPY . .
 RUN npm install
-EXPOSE $PORT
+EXPOSE 3000
 CMD ["npm", "start"]
